@@ -26,7 +26,7 @@
 <img src="https://imgur.com/Q4it4rz.jpg" alt="drawing" width="300"/>
 <h5>
  Screen 4 - Astronomy information</h5>
-<img src="https://imgur.com/WjwnY1i.jpg" alt="drawing" width="300"/>
+<img src="https://imgur.com/jF6MfnG.jpg" alt="drawing" width="300"/>
 </center>
 
 
